@@ -51,12 +51,6 @@ These projects reflect my **passion for data science** and my ability to turn ra
 
 📬 **Feel free to explore the repository and connect with me!**
 
----
-
-**👨‍💻 Author:** Your Name  
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🐙 **GitHub:** [Your GitHub Profile](https://github.com/your-username)
-
 
 
 
