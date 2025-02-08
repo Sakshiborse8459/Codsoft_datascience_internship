@@ -16,7 +16,7 @@ Welcome to my **CodSoft Internship** repository! Here, you'll find three excitin
   - Feature engineering
   - Model training and evaluation
 - **Results**: Developed a predictive model for passenger survival with high accuracy.
-https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/codsoft_task01
+**[🔗 Project Link]https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/codsoft_task01
 
 ### 2. Iris Flower Classification
 - **Objective**: Classify iris flowers into three species based on petal and sepal measurements.
@@ -27,6 +27,7 @@ https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/cods
   - Model selection and training (SVM, Decision Tree, etc.)
   - Model evaluation using accuracy and confusion matrix
 - **Results**: Achieved high accuracy in classifying iris flowers.
+**[🔗 Project Link]https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/codsoft_task03
 
 
 ### 3. Sales Prediction Using Python
@@ -38,6 +39,7 @@ https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/cods
   - Feature selection and engineering
   - Regression modeling for sales forecasting
 - **Results**: Created a predictive model to estimate future sales trends with precision.
+**[🔗 Project Link]https://github.com/Sakshiborse8459/Codsoft_datascience_internship/tree/main/codsoft_task04
 
 ---
 
